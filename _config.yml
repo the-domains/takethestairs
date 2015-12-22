@@ -1,28 +1,40 @@
-name: TaketheStairs
-favicon: null
-layout_spectrum: 0.06100329104810953
-typography_spectrum: 0.5653410688973963
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+  domain: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.437276
+  lightness: 0.3172043
+  brandStrength: 0.344086
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.4407398966141045
-  lightness: 0.705793292960152
-  saturation: 0.8413603904191405
-  rhythmicContrast: 0.2651898227632046
-purpose: []
+  rhythmicContrast: 0.2651898
+typography_spectrum: 0.6523297
+layout_spectrum: 0.1953405
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: TaketheStairs
