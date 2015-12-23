@@ -1,7 +1,7 @@
 name: TaketheStairs
 favicon: null
-layout_spectrum: 0.57144
-typography_spectrum: 0.82863
+layout_spectrum: 0.80063
+typography_spectrum: 0.48583
 collections:
   - index:
       path: /
@@ -35,7 +35,7 @@ color:
     - '#6c6c6c'
     - '#b9b9b9'
   brandStrength: 0.8125
-  lightness: 0.3172043
-  saturation: 0.437276
-  rhythmicContrast: 0.2651898
+  lightness: 0.625
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
