@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[TaketheStairs]]></title>
         <description><![CDATA[TaketheStairs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/takethestairs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 02:02:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Dec 2015 02:13:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/takethestairs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[10 Simple Steps for Starting a Business Today]]></title>
+            <description><![CDATA[<article><h1>10 Simple Steps for Starting a Business Today</h1><p>There's a saying that you have to "fake it till you make it," in life and in business. However, you also hear about wantrepreneurs. So what's the difference? The real difference to me is in the action. If you want to get started, but you don't know how to begin from zero, here is a simple and effective approach.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6abb8f2d7fbd29d4373173fe1577a9c68cf3379b.jpg"></article>]]></description>
+            <link>http://www.entrepreneur.com/article/244303</link>
+            <guid isPermaLink="false">851fa97e-53cf-43ee-85d5-74ae6db1d045</guid>
+            <pubDate>Wed, 23 Dec 2015 02:13:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Raising the next Steve Jobs]]></title>
-            <description><![CDATA[<article><h1>Raising the next Steve Jobs</h1><p>If your kids are spending the weekend manning a lemonade stand, setting up a website to offer babysitting services or busily crafting goods to sell online, you may be wondering whether you're sharing a house with a budding entrepreneur. Increasing use of technology is making it easier for new ventures to spring up, run by ever-younger businesspeople.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5437303de0199d1779743b58b3c4c6fb5445dc5.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Raising the next Steve Jobs</h1><p>If your kids are spending the weekend manning a lemonade stand, setting up a website to offer babysitting services or busily crafting goods to sell online, you may be wondering whether you're sharing a house with a budding entrepreneur. Increasing use of technology is making it easier for new ventures to spring up, run by ever-younger businesspeople.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e02a4f3372ce74b7ba566910c1051e1a43bf21c5.jpg"></article>]]></description>
             <link>http://www.stuff.co.nz/business/money/75133537/parents-can-help-entrepreneurial-kids-become-startup-success-stories</link>
             <guid isPermaLink="false">182b5ddc-fd28-494e-b6c0-eab7dab108f4</guid>
             <pubDate>Wed, 23 Dec 2015 02:02:20 GMT</pubDate>
