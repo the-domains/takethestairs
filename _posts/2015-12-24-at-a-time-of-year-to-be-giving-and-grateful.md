@@ -1,12 +1,12 @@
 ---
 description: At a time of year to be giving and grateful
 author: []
-datePublished: '2015-12-24T07:28:42.343Z'
+datePublished: '2015-12-24T07:30:59.746Z'
 publisher:
   domain: ''
   name: ''
 title: 'At a time of year to be giving and grateful '
-dateModified: '2015-12-24T07:27:55.516Z'
+dateModified: '2015-12-24T07:28:42.343Z'
 sourcePath: _posts/2015-12-24-at-a-time-of-year-to-be-giving-and-grateful.md
 published: true
 inFeed: true
