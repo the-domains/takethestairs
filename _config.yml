@@ -14,8 +14,8 @@ collections:
       number: 10
 color:
   saturation: 0.8136201
+  brandStrength: 1
   lightness: 0.765233
-  brandStrength: 0.8261649
   brandColors:
     - '#101010'
     - '#fefefe'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: TaketheStairs
+favicon: null
 opengraph:
   image: null
   type: null
