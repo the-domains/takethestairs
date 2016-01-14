@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.8136201
-  brandStrength: 1
-  lightness: 0.765233
+  saturation: 0.9139785
+  lightness: 0.8817204
+  brandStrength: 0.6774194
   brandColors:
     - '#101010'
     - '#fefefe'
     - '#444444'
     - '#6c6c6c'
     - '#b9b9b9'
-  rhythmicContrast: 0.7311828
+  rhythmicContrast: 0.3172043
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: TaketheStairs
 favicon: null
+name: TaketheStairs
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.6684588
-layout_spectrum: 0.7204301
+layout_spectrum: 0.8835126
